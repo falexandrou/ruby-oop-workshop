@@ -1,10 +1,9 @@
 encoding: utf-8
-markdown: redcarpet
-baseurl: /jekyll-course-template
-url: p2pu.github.io/jekyll-course-template/
+baseurl: /ruby101
+url: www.falexandrou.com/ruby101/
 permalink: /:title/
-ga_tracking_code: UA-5757664-17
-disqus_shortname: jekyllcoursetemplate
+ga_tracking_code: UA-70676378-3
+disqus_shortname: ruby101
 prose:
   media: /img
   ignore:
