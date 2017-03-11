@@ -5626,7 +5626,6 @@ button.close {
   margin-bottom: 0; }
   .p2pu-footer a {
     color: #fcfcfc;
-    border-bottom: 1px dotted;
     text-decoration: none;
     transition: all 0.3s linear; }
     .p2pu-footer a:hover, .p2pu-footer a:focus {
