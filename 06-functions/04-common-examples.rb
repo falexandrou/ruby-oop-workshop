@@ -27,3 +27,8 @@ d = square_root c
 puts "Square root of #{c} is #{b}"
 
 puts "I think the value of 'd' would be 'b', right? #{d == b}"
+
+# Recommended reading
+# https://learnrubythehardway.org/book/ex18.html
+# https://learnrubythehardway.org/book/ex19.html
+# https://learnrubythehardway.org/book/ex21.html

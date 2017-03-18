@@ -15,3 +15,8 @@ get_age
 puts get_age
 
 puts get_age_implied
+
+# Recommended reading
+# https://learnrubythehardway.org/book/ex18.html
+# https://learnrubythehardway.org/book/ex19.html
+# https://learnrubythehardway.org/book/ex21.html

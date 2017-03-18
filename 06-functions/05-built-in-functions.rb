@@ -13,3 +13,7 @@ puts new_lines_var.chomp
 new_lines_var = "   hello    "
 puts "'#{new_lines_var.strip}'"
 
+# Recommended reading
+# https://learnrubythehardway.org/book/ex18.html
+# https://learnrubythehardway.org/book/ex19.html
+# https://learnrubythehardway.org/book/ex21.html
